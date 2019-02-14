@@ -4,7 +4,7 @@ A Dockerfile that produces a Docker Image for [Redis](http://redis.io/).
 
 ## Redis version
 
-The `master` branch currently hosts Redis 3.0.
+The `master` branch currently hosts Redis 4.0.
 
 Different versions of Redis are located at the github repo [tags](https://github.infra.hana.ondemand.com/cloudfoundry/docker-redis/tags).
 
